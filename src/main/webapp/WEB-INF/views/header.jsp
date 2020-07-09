@@ -43,7 +43,7 @@
                                 </li>
                                 <li>
                                     <a href="#">
-                                        Locations444
+                                        Bangalore
                                     </a>
                                     <ul>
                                         <li>
