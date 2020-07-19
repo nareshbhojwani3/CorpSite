@@ -43,7 +43,7 @@
                                 </li>
                                 <li>
                                     <a href="#">
-                                        NewYork
+                                        Paris
                                     </a>
                                     <ul>
                                         <li>
